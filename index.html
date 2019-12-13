@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Brownie Cove Generator</title>
+  
+  
+  <link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet"> 
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  <div>
+  <h1>Brownie Cove Generator</h1>
+  <FORM NAME="WordForm"></FORM>
+  <p>Temperature:</p>
+  <input type="range" name="temperatureInput" min="0.0" max="2.0" value="1.0" step="0.25" onchange="updateTextInput('tempInput', this.value);">
+<input type="text" id="tempInput" readonly=True value="1.0">
+<br>
+<INPUT TYPE=BUTTON VALUE="Generate" disabled = True onClick="PickRandomWord(document.WordForm);" id="button">
+<div id="close">
+    <p id="wordbox">Loading???</p> 
+</div>
+</FORM>
+</div>
+  
+  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>
