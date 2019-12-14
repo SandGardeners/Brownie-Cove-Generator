@@ -1,3 +1,6 @@
+>[![CC0 logo](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+>To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work. 
+
 [![sand gardeners banner](sg.png)](https://sandgardeners.itch.io/)
 
 # [📖Brownie Cove Generator - random-word-generator📖](https://sandgardeners.itch.io/generator)
@@ -15,3 +18,5 @@ We will always encourage and stand behind the creation of derivative works, muta
 Please feel free to reuse and/or modify any part of these projects (code, sprites, models, audio) that can be useful for your personal or commercial projects. Only the Sand Gardeners logo and name, as well as the third-party assets and code we do not own are not released under the CC0 license.
 
 We understand that we are only small fish, but as a declaration of intent and philosophy, we hope this plays a part in the creation of something new. And if you happen to make anything out of our work, tell us! [We want to hear from you! :)](mailto:sandgardeners@gmail.com)
+
+> We tried our best to remove everything we weren't allowed to distribute. However, if we made any mistake, please let us know, we'll gladly remove any unauthorized content.
